@@ -67,3 +67,26 @@ The cart updates dynamically as items are added, removed, or changed in quantity
 2. The application should allow users to update their password while logged in.
 3. The application should allow users to update their account settings while logged in.
 4. The application should allow users to update their profile picture while logged in.
+
+## Product Management
+
+**Products**
+1. Users should be able to view all available products. The system must support pagination to manage large inventories.
+2. Users can search for products based on keywords, availability, and price. Search results should be paginated and sortable.
+
+## Order Management
+
+**Order**
+1. Users must be able to place orders through the system. This includes integration with payment gateways to handle transactions.
+2. Users should be able to view their past orders to track purchase history and order statuses.
+3. Users can retrieve details of a specific order.
+4. Users have the ability to cancel their orders if needed.
+
+## Shopping Cart Management
+
+**Shopping Cart**
+1. Users can add items to their shopping cart.
+2. Users should be able to update the quantity of the items in their cart.
+3. Users can remove items from their shopping cart.
+4. Users can view all items in their cart.
+5. Users have the option to clear all items in their shopping cart at once.
